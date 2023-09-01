@@ -12,7 +12,7 @@ Migration is a global issue involving a large-scale force displacement of refuge
 
 [Global Missing Migrants Project workbook](https://datalore.jetbrains.com/report/static/W7I74JMZPav5kPBU9p9V20/cew0NFB0yeanEIAKJQMOBm)
 
-[Project Report](Additional_project/Missing-migrants-project)
+[Project Report](Missing-migrants-project/README.md)
 
 <!--
 **Fafyfah/Fafyfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
