@@ -1,4 +1,11 @@
-### Hi there, I'm Fah 👋
+# Hi there, I'm Fah 👋
+💬 A recent graduate who are looking for a job as a data analyst.
+
+😄 Pronouns: She/Her
+
+## 📁 Data Analyst Projects
+
+### Global Missing Migrants Exploratory Dashboard
 
 <!--
 **Fafyfah/Fafyfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
