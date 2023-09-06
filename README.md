@@ -19,7 +19,7 @@ Data science bootcamp with DataRockie is a 6-month intensive program I took du
 [Data science bootcamp project repository](https://github.com/Fafyfah/bootcamp_projects.git)
 
 ### 🌱 Formula 1 Race Data: SQL Data Extraction Project
-In this project, I wrote SQL queries to extract insights from Formula 1 race data from the years 1950 to 2017. I utilized SELECT, JOIN, WHERE, ORDER BY, GROUP BY, and HAVING to retrieve and filter data effectively. This work aims to demonstrate my proficiency in SQL query writing and data manipulation skill. 
+In this project, I wrote `SQL queries` to extract insights from Formula 1 race data from the years 1950 to 2017. I utilized SELECT, JOIN, WHERE, ORDER BY, GROUP BY, and HAVING to retrieve and filter data effectively. This work aims to demonstrate my proficiency in SQL query writing and data manipulation skill. 
 
 [SQL Formula 1 Project](https://github.com/Fafyfah/Additional_project/tree/d1b3361910933770b3b0abb2ee73c20cbaf6f097/sql-formula1-project)
 
