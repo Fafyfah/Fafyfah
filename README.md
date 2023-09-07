@@ -18,6 +18,11 @@ Data science bootcamp with DataRockie is a 6-month intensive program I took du
 
 [Data science bootcamp project repository](https://github.com/Fafyfah/bootcamp_projects.git)
 
+### 🌱 Cleaned Bike Sales Data Project
+The bike sales dataset obtained from Kaggle is unclean, it consists of missing value and inconsistent data. This project utilize `Python/pandas` to clean data and make it ready to be used for any kind of analysis.
+
+[Clean bike sales data project workbook](https://datalore.jetbrains.com/report/static/W7I74JMZPav5kPBU9p9V20/kgSZgEWdUCvXdQwo44nYnJ)
+
 ### 🌱 Formula 1 Race Data: SQL Data Extraction Project
 In this project, I wrote `SQL queries` to extract insights from Formula 1 race data from the years 1950 to 2017. I utilized SELECT, JOIN, WHERE, ORDER BY, GROUP BY, and HAVING to retrieve and filter data effectively. This work aims to demonstrate my proficiency in SQL query writing and data manipulation skill. 
 
