@@ -1,5 +1,5 @@
 # Hi there, I'm Fah 👋
-💬 A recent graduate who are looking for a job as a data analyst.
+💬 A recent graduate who are looking for a position.
 
 
 ## 📁 Data Analyst Projects
